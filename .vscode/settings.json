@@ -1,0 +1,20 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "string.h": "c",
+    "stdio.h": "c",
+    "sockets.h": "c",
+    "esp_adc_cal.h": "c",
+    "*.ipp": "c",
+    "ssd1306.h": "c",
+    "functional": "c",
+    "*.inc": "c",
+    "netdb.h": "c",
+    "event_groups.h": "c",
+    "dns.h": "c",
+    "gpio.h": "c"
+  },
+  "idf.adapterTargetName": "esp32",
+  "idf.portWin": "COM5",
+  "idf.flashType": "UART"
+}
